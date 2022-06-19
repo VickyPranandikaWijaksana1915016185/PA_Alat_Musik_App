@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366962982288",
+    "project_id": "toko-alat-musik-app",
+    "storage_bucket": "toko-alat-musik-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366962982288:android:156b04098c827182664715",
+        "android_client_info": {
+          "package_name": "com.example.toko_alat_musik_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366962982288-4ot12703ljnsdoadnf1o1deqt4qn7erh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsuliL_SBvFah-3LFNg217hDfp1xQgpRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366962982288-4ot12703ljnsdoadnf1o1deqt4qn7erh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
